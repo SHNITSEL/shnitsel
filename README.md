@@ -17,7 +17,7 @@ SHNITSEL is a curated platform for to support the entire lifecycle of surface ho
         <br>
     </td>
     <td align="center" width="400" valign="top">
-      <img src="https://github.com/SHNITSEL/shnitsel/blob/main/logo_shnitsel-tools.png" height="250"><br>
+      <img src="https://github.com/SHNITSEL/shnitsel/blob/main/logo_shnitsel-tools.png" height="246"><br>
       <h3><b>shnitsel-tools<b></h3>
       <br><br>
       ... is an integrated Python software package for the streamlined collection, managment, processing, analysis and visualization of surface hopping data.
