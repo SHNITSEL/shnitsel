@@ -12,14 +12,14 @@ SHNITSEL is a curated platform for to support the entire lifecycle of surface ho
     <td align="center" width="400" valign="top">
       <img src="https://github.com/SHNITSEL/shnitsel/blob/main/logo_shnitsel-data.png" height="250"><br>
       <h3><b>shnitsel-data<b></h3>
-        <br><br>
+        <br>
         ... is a compilation of surface hopping datasets that offers high-quality quantum chemical data (e.g. energies, forces, nonadiabatic couplings) of photochemical reactions; ideal for benchmarking and machine learning applications.
         <br>
     </td>
     <td align="center" width="400" valign="top">
       <img src="https://github.com/SHNITSEL/shnitsel/blob/main/logo_shnitsel-tools.png" height="246"><br>
       <h3><b>shnitsel-tools<b></h3>
-      <br><br>
+      <br>
       ... is an integrated Python software package for the streamlined collection, managment, processing, analysis and visualization of surface hopping data.
         <br>
     </td>
