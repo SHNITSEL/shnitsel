@@ -29,10 +29,16 @@ SHNITSEL is a curated platform for to support the entire lifecycle of surface ho
         <a href="https://zenodo.org/records/15482819">
           <img src="https://img.shields.io/badge/Dataset-Zenodo-yellow.svg" alt="DOI">
         </a>
+      <a href="https://shnitsel.github.io/molecules/">
+          <img src="https://img.shields.io/badge/Website-shnitsel.github.io/molecules-yellow.svg" alt="shnitsel.github.io/molecules/">
+      </a>
     </td>
     <td align="center" width="400" valign="top">
       <a href="https://github.com/SHNITSEL/shnitsel-tools">
-          <img src="https://img.shields.io/badge/Code-Github-blue.svg" alt="Github">
+          <img src="https://img.shields.io/badge/Code-Github-darkblue.svg" alt="Github">
+      </a>
+      <a href="https://shnitsel.github.io/tools/">
+          <img src="https://img.shields.io/badge/Website-shnitsel.github.io/tools-yellow.svg" alt="shnitsel.github.io/tools/">
       </a>
     </td>
   </tr>
