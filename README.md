@@ -46,8 +46,6 @@ SHNITSEL is a curated platform for to support the entire lifecycle of surface ho
 
 Contributions welcome!
 
-[![Website](https://img.shields.io/badge/Website-shnitsel.github.io-yellow.svg)](https://shnitsel.github.io/)
-
 <!--
 **SHNITSEL/shnitsel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
