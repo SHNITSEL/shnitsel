@@ -35,7 +35,7 @@ SHNITSEL is a curated platform for to support the entire lifecycle of surface ho
     </td>
     <td align="center" width="400" valign="top">
       <a href="https://github.com/SHNITSEL/shnitsel-tools">
-          <img src="https://img.shields.io/badge/Code-Github-darkblue.svg" alt="Github">
+          <img src="https://img.shields.io/badge/Code-Github-yellow.svg" alt="Github">
       </a>
       <a href="https://shnitsel.github.io/tools/">
           <img src="https://img.shields.io/badge/Website-shnitsel.github.io/tools-yellow.svg" alt="shnitsel.github.io/tools/">
